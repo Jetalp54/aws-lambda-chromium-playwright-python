@@ -1,0 +1,2 @@
+playwright==1.47.0
+awslambdaric==2.0.1
